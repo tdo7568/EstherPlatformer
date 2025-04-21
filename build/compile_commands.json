@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/esther/Projects/EstherPlatformer/build",
+  "command": "/usr/bin/c++  -I/home/esther/Projects/EstherPlatformer/include/box2d -g -o CMakeFiles/EstherPlatformer.dir/src/main.cpp.o -c /home/esther/Projects/EstherPlatformer/src/main.cpp",
+  "file": "/home/esther/Projects/EstherPlatformer/src/main.cpp",
+  "output": "CMakeFiles/EstherPlatformer.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/esther/Projects/EstherPlatformer/build",
+  "command": "/usr/bin/c++  -I/home/esther/Projects/EstherPlatformer/include/box2d -g -o CMakeFiles/EstherPlatformer.dir/src/game.cpp.o -c /home/esther/Projects/EstherPlatformer/src/game.cpp",
+  "file": "/home/esther/Projects/EstherPlatformer/src/game.cpp",
+  "output": "CMakeFiles/EstherPlatformer.dir/src/game.cpp.o"
+},
+{
+  "directory": "/home/esther/Projects/EstherPlatformer/build",
+  "command": "/usr/bin/c++  -I/home/esther/Projects/EstherPlatformer/include/box2d -g -o CMakeFiles/EstherPlatformer.dir/src/entity.cpp.o -c /home/esther/Projects/EstherPlatformer/src/entity.cpp",
+  "file": "/home/esther/Projects/EstherPlatformer/src/entity.cpp",
+  "output": "CMakeFiles/EstherPlatformer.dir/src/entity.cpp.o"
+},
+{
+  "directory": "/home/esther/Projects/EstherPlatformer/build",
+  "command": "/usr/bin/c++  -I/home/esther/Projects/EstherPlatformer/include/box2d -g -o CMakeFiles/EstherPlatformer.dir/src/player.cpp.o -c /home/esther/Projects/EstherPlatformer/src/player.cpp",
+  "file": "/home/esther/Projects/EstherPlatformer/src/player.cpp",
+  "output": "CMakeFiles/EstherPlatformer.dir/src/player.cpp.o"
+},
+{
+  "directory": "/home/esther/Projects/EstherPlatformer/build",
+  "command": "/usr/bin/c++  -I/home/esther/Projects/EstherPlatformer/include/box2d -g -o CMakeFiles/EstherPlatformer.dir/src/terrainElement.cpp.o -c /home/esther/Projects/EstherPlatformer/src/terrainElement.cpp",
+  "file": "/home/esther/Projects/EstherPlatformer/src/terrainElement.cpp",
+  "output": "CMakeFiles/EstherPlatformer.dir/src/terrainElement.cpp.o"
+}
+]
